@@ -10,5 +10,6 @@
 | Apple Developer | <a href="https://developer.apple.com/system-status">HTTPS</a> |
 | Github | <a href="https://www.githubstatus.com">HTTPS</a> |
 | Github AE | <a href="https://www.ghestatus.com">HTTPS</a> |
+| K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
 
 </div>
