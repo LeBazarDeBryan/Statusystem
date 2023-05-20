@@ -12,5 +12,6 @@
 | Github AE | <a href="https://www.ghestatus.com">HTTPS</a> |
 | Google Workspace | <a href="https://www.google.com/appsstatus/dashboard">HTTPS</a> |
 | K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
+| Samsung Developers | <a href="https://developer.samsung.com/system-status">HTTPS</a> |
 
 </div>
