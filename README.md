@@ -13,6 +13,7 @@
   | Github | <a href="https://www.githubstatus.com">HTTPS</a> |
   | Github AE | <a href="https://www.ghestatus.com">HTTPS</a> |
   | Github API | <a href="https://api.github.com/status">HTTPS</a> |
+  | Google Cloud | <a href="https://status.cloud.google.com">HTTPS</a> |
   | Google Workspace | <a href="https://www.google.com/appsstatus/dashboard">HTTPS</a> |
   | K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
   | Leboncoin | <a href="https://status.leboncoin.fr">HTTPS</a> |
