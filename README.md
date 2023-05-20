@@ -15,6 +15,7 @@
   | Meta | <a href="https://metastatus.com">HTTPS</a> |
   | Samsung Developers | <a href="https://developer.samsung.com/system-status">HTTPS</a> |
   | Twitch | <a href="https://status.twitch.com">HTTPS</a> |
+  | Twitch Developer | <a href="https://twitchstatus.com">HTTPS</a>
   | Twitter | <a href="https://api.twitterstat.us">HTTPS</a> |
 
 </div>
