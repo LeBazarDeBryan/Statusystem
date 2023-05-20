@@ -6,6 +6,7 @@
 
   | Name | URL |
   |------|-----|
+  | Amazon Web Services | <a href="https://health.aws.amazon.com/health/status">HTTPS</a> |
   | Apple | <a href="https://www.apple.com/support/systemstatus">HTTPS</a> |
   | Apple Developer | <a href="https://developer.apple.com/system-status">HTTPS</a> |
   | Github | <a href="https://www.githubstatus.com">HTTPS</a> |
