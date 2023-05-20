@@ -14,6 +14,7 @@
   | K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
   | Meta | <a href="https://metastatus.com">HTTPS</a> |
   | Samsung Developers | <a href="https://developer.samsung.com/system-status">HTTPS</a> |
+  | Twitch | <a href="https://status.twitch.com">HTTPS</a> |
   | Twitter | <a href="https://api.twitterstat.us">HTTPS</a> |
 
 </div>
