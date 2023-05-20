@@ -10,6 +10,7 @@
   | Amazon Web Services (simple) | <a href="https://aws-status.info">HTTPS</a> |
   | Apple | <a href="https://www.apple.com/support/systemstatus">HTTPS</a> |
   | Apple Developer | <a href="https://developer.apple.com/system-status">HTTPS</a> |
+  | Discord | <a href="https://discordstatus.com">HTTPS</a> |
   | Github | <a href="https://www.githubstatus.com">HTTPS</a> |
   | Github AE | <a href="https://www.ghestatus.com">HTTPS</a> |
   | Github API | <a href="https://api.github.com/status">HTTPS</a> |
