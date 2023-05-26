@@ -15,7 +15,7 @@
   | Garmin Connect | <a href="https://connect.garmin.com/status">HTTPS</a> |
   | Github | <a href="https://www.githubstatus.com">HTTPS</a> |
   | Github AE | <a href="https://www.ghestatus.com">HTTPS</a> |
-  | Github API | <a href="https://api.github.com/status">HTTPS</a> |
+  | Github API | <a href="https://statusystem.vercel.app/html/github_api.html">HTTPS</a> |
   | Google Cloud | <a href="https://status.cloud.google.com">HTTPS</a> / <a href="https://status.cloud.google.com/feed.atom">RSS</a> |
   | Google Play Store | <a href="https://status.play.google.com">HTTPS</a> / <a href="https://status.play.google.com/feed.atom">RSS</a> |
   | Google Search | <a href="https://status.search.google.com">HTTPS</a> / <a href="https://status.search.google.com/feed.atom">RSS</a> |
