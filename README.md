@@ -18,6 +18,7 @@
   | Github API | <a href="https://api.github.com/status">HTTPS</a> |
   | Google Cloud | <a href="https://status.cloud.google.com">HTTPS</a> / <a href="https://status.cloud.google.com/feed.atom">RSS</a> |
   | Google Play Store | <a href="https://status.play.google.com">HTTPS</a> / <a href="https://status.play.google.com/feed.atom">RSS</a> |
+  | Google Search | <a href="https://status.search.google.com">HTTPS</a> / <a href="https://status.search.google.com/feed.atom">RSS</a> |
   | Google Workspace | <a href="https://www.google.com/appsstatus/dashboard">HTTPS</a> / <a href="https://www.google.com/appsstatus/dashboard/feed.atom">RSS</a> |
   | Imgur | <a href="https://status.imgur.com">HTTPS</a> |
   | K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
