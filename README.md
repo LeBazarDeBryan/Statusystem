@@ -24,6 +24,7 @@
   | K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
   | Leboncoin | <a href="https://status.leboncoin.fr">HTTPS</a> |
   | Meta | <a href="https://metastatus.com">HTTPS</a> |
+  | NiceHash | <a href="https://status.nicehash.com">HTTPS</a> |
   | Samsung Developers | <a href="https://developer.samsung.com/system-status">HTTPS</a> |
   | StormGain | <a href="https://stormgain.com/status">HTTPS</a> |
   | Twitch | <a href="https://status.twitch.com">HTTPS</a> |
