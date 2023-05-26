@@ -25,6 +25,7 @@
   | Leboncoin | <a href="https://status.leboncoin.fr">HTTPS</a> |
   | Meta | <a href="https://metastatus.com">HTTPS</a> |
   | Samsung Developers | <a href="https://developer.samsung.com/system-status">HTTPS</a> |
+  | StormGain | <a href="https://stormgain.com/status">HTTPS</a> |
   | Twitch | <a href="https://status.twitch.com">HTTPS</a> |
   | Twitch Developer | <a href="https://twitchstatus.com">HTTPS</a> |
   | Twitch Inspector | <a href="https://inspector.twitch.tv">HTTPS</a> |
