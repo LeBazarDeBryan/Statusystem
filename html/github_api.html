@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Github API Status System</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<div align="center">
+  <h1>Statusystem</h1>
+  <h3>Github API Status</h3>
+  <br></br>
+  <pre id="result"></pre>
+
+  <script>
+    function fetchStatus() {
+      $.ajax({
+        url: "https://api.github.com/status",
+        success: function(data, textStatus, xhr) {
+          var utcOffset = -9;
+          var currentUtcTime = new Date();
+          var serverTime = new Date(currentUtcTime.getTime() + (utcOffset * 60 * 60 * 1000)).toLocaleString();
+
+          var resultText = "GitHub lives! (" + serverTime + ")";
+          $("#result").text(resultText);
+        }
+      });
+    }
+
+    $(document).ready(function() {
+      fetchStatus();
+
+      setInterval(fetchStatus, 1000);
+    });
+  </script>
+</div>
+</body>
+</html>
