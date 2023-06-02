@@ -13,17 +13,16 @@
 
   <script>
     $(document).ready(function() {
-    function fetchStatus() {
-      $.ajax({
-        url: "https://api.github.com/status",
-        dataType: "json",
-        success: function(data) {
-          $("#result").text(JSON.stringify(data, null, 2));
-        }
-      });
-    }
+      function fetchStatus() {
+        $.ajax({
+          url: "https://api.github.com/status",
+          dataType: "json",
+          success: function(data) {
+            $("#result").text(JSON.stringify(data, null, 2));
+          }
+        });
+      }
 
-    $(document).ready(function() {
       fetchStatus();
 
       setInterval(fetchStatus, 1000);
