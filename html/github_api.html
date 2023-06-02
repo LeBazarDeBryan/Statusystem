@@ -13,15 +13,12 @@
 
   <script>
     function fetchStatus() {
+    $(document).ready(function() {
       $.ajax({
         url: "https://api.github.com/status",
-        success: function(data, textStatus, xhr) {
-          var utcOffset = -9;
-          var currentUtcTime = new Date();
-          var serverTime = new Date(currentUtcTime.getTime() + (utcOffset * 60 * 60 * 1000)).toLocaleString();
-
-          var resultText = "GitHub lives! (" + serverTime + ")";
-          $("#result").text(resultText);
+        dataType: "json",
+        success: function(data) {
+          $("#result").text(JSON.stringify(data, null, 2));
         }
       });
     }
