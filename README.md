@@ -12,7 +12,7 @@
   | Apple | <a href="https://www.apple.com/support/systemstatus">HTTPS</a> |
   | Apple Developer | <a href="https://developer.apple.com/system-status">HTTPS</a> |
   | Discord | <a href="https://discordstatus.com">HTTPS</a> |
-  | Free | <a href="https://www.free-reseau.fr">HTTPS</a> |
+  | Free | <a href="https://www.free-reseau.fr">HTTPS</a> / <a href="http://free-reseau.fr/free-reseau-rss.xml">RSS</a> |
   | Garmin Connect | <a href="https://connect.garmin.com/status">HTTPS</a> |
   | GitHub | <a href="https://www.githubstatus.com">HTTPS</a> |
   | GitHub AE | <a href="https://www.ghestatus.com">HTTPS</a> |
