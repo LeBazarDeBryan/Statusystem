@@ -29,6 +29,7 @@
   | mirror.cyberbits.eu | <a href="https://mirror.cyberbits.eu/status.html">HTTPS</a> |
   | NiceHash | <a href="https://status.nicehash.com">HTTPS</a> |
   | Samsung Developers | <a href="https://developer.samsung.com/system-status">HTTPS</a> |
+  | Samsung Knox | <a href="https://status.samsungknox.com/">HTTPS</a> |
   | StormGain | <a href="https://stormgain.com/status">HTTPS</a> |
   | Twitch | <a href="https://status.twitch.com">HTTPS</a> |
   | Twitch Developer | <a href="https://twitchstatus.com">HTTPS</a> |
