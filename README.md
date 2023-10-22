@@ -25,6 +25,7 @@
   | Imgur | <a href="https://status.imgur.com">HTTPS</a> |
   | K-Net | <a href="https://www.k-net.fr/etat-du-reseau-et-des-services">HTTPS</a> |
   | Leboncoin | <a href="https://status.leboncoin.fr">HTTPS</a> |
+  | MaxMind | <a href="https://status.maxmind.com/">HTTPS</a> |
   | Meta | <a href="https://metastatus.com">HTTPS</a> |
   | mirror.cyberbits.eu | <a href="https://mirror.cyberbits.eu/status.html">HTTPS</a> |
   | NiceHash | <a href="https://status.nicehash.com">HTTPS</a> |
