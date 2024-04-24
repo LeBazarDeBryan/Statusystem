@@ -12,6 +12,7 @@
   | Apple | <a href="https://www.clictune.com/jy0F">HTTPS</a> |
   | Apple Developer | <a href="https://www.clictune.com/jy0G">HTTPS</a> |
   | Catbox | <a href="https://www.clictune.com/jIwR">HTTPS</a> |
+  | Cobalt | <a href="https://www.clictune.com/jOj0">HTTPS</a> |
   | Discord | <a href="https://www.clictune.com/jy0H">HTTPS</a> |
   | Free | <a href="https://www.clictune.com/jy0I">HTTPS</a> / <a href="https://www.clictune.com/jy0J">RSS</a> |
   | Garmin Connect | <a href="https://www.clictune.com/jy0K">HTTPS</a> |
